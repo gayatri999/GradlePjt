@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8522" started-at="2018-06-26T12:47:43Z" finished-at="2018-06-26T12:47:51Z">
+  <suite name="Default suite" duration-ms="5336" started-at="2018-07-03T08:43:48Z" finished-at="2018-07-03T08:43:53Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8522" started-at="2018-06-26T12:47:43Z" finished-at="2018-06-26T12:47:51Z">
+    <test name="Default test" duration-ms="5336" started-at="2018-07-03T08:43:48Z" finished-at="2018-07-03T08:43:53Z">
       <class name="week1.CreateLead">
-        <test-method status="PASS" signature="createlead()[pri:0, instance:week1.CreateLead@1caeb3e]" name="createlead" duration-ms="8479" started-at="2018-06-26T12:47:43Z" finished-at="2018-06-26T12:47:51Z">
+        <test-method status="PASS" signature="createlead()[pri:0, instance:week1.CreateLead@198378d]" name="createlead" duration-ms="5263" started-at="2018-07-03T08:43:48Z" finished-at="2018-07-03T08:43:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createlead -->
       </class> <!-- week1.CreateLead -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
